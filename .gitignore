@@ -1,0 +1,13 @@
+# VS Code
+.vscode/
+
+# SQLTools connections
+.env
+*.env
+*.session.sql
+*.dbconn
+sqltools*.json
+
+# OS files
+.DS_Store
+Thumbs.db
