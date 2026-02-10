@@ -1,1 +1,0 @@
-SELECT * FROM h_ventas_edit;
