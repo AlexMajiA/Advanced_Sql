@@ -24,7 +24,8 @@ SELECT * FROM personas;
 SELECT * FROM personas2;
 
 -- Agregar una columna nueva a una tabla ya creada.
-ALTER TABLE personas ADD antiguedad_mes INT DEFAULT NULL;
+ALTER TABLE personas 
+ADD antiguedad_mes INT DEFAULT NULL;
 
 -- Modificar una columna de una tabla (nombre VARCHAR(50)).
 
